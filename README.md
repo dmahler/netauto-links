@@ -23,9 +23,12 @@
 * [drawthe.net] (https://github.com/cidrblock/drawthe.net) drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting diagram will be created.
 * [Juniper vQFX10000] (http://www.juniper.net/us/en/dm/free-vqfx-trial/) 
 * [Docker container for Ansible](https://github.com/cidrblock/ansible-docker). Run Ansible from a Docker container
-* [Docker containers from Junioer] (https://hub.docker.com/r/juniper/)
+* [Docker containers from Juniper] (https://hub.docker.com/r/juniper/)
 * [Kibana] (https://www.elastic.co/products/kibana) Visualize elastic search data
 * [Kentik] (https://www.kentik.com/)  Visualize/analyze network flow info NetFlow, sFlow, BGP etc
+* [pyflakes] (https://pypi.python.org/pypi/pyflakes) A simple program which checks Python source files for errors.
+* [pep8] (https://www.python.org/dev/peps/pep-0008/) Style Guide for Python Code 
+* [flake8] (http://flake8.pycqa.org/en/latest/) Tool For Style Guide Enforcement
 * [Ansible-Lint] (https://github.com/willthames/ansible-lint)  Check for Ansible behavior that could be improved
 * [Ansible-review] (https://github.com/willthames/ansible-review) Review Ansible inventories, roles, python code and playbooks
 * [Grafana] (http://grafana.org/)  Metric and analytics dashboard
@@ -36,3 +39,7 @@
 * [Ansible CI] (https://gist.github.com/allanice001/3abe4e49b78ae840f775f828ce89cba8)
 * [Behave] (https://github.com/behave/behave) Behavior driven development - in Python
 * [Whois for Network Operators] (https://linux.die.net/man/8/whob)
+* [netcrawl] (https://github.com/Wyko/netcrawl) Netcrawl is a network discovery tool designed to poll one or more devices, inventory them, and then continue the process through the device's neighbors.
+* [Stackstorm] (https://stackstorm.com) StackStorm is a powerful open-source automation platform that wires together all of your apps, services and workflows. It’s extendable, flexible, and built with love for DevOps and ChatOps
+* [Yang Explorer] (https://github.com/CiscoDevNet/yang-explorer) An open-source Yang Browser and RPC Builder Application to experiment with Yang Data Models
+* [Caprica] (https://github.com/google/capirca)
