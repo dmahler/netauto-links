@@ -75,8 +75,13 @@
 ## Distributed Systems and Messaging
 * [Consul](https://www.consul.io/) Consul is a tool for service discovery and configuration. Consul is distributed, highly available, and extremely scalable.
 * [Kafka](https://kafka.apache.org/) A distributed steaming platform
-* [RabbitMQ] (https://www.rabbitmq.com/)
+* [RabbitMQ](https://www.rabbitmq.com/)
 * [RabbitMQ vs Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka) 
 
 ## Data Store
-* [etcd] A distributed, reliable key-value store for the most critical data of a distributed system.
+* [etcd](https://coreos.com/etcd) A distributed, reliable key-value store for the most critical data of a distributed system.
+* [redis](https://redis.io/) Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker.
+
+## Containers
+* [Docker](https://www.docker.com/)
+* [Kubernetes](https://kubernetes.io/)
